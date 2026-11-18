@@ -41,4 +41,4 @@ Most of my production work (SQL Server → BigQuery migration, Concord → HubSp
 
 [Portfolio](https://varunpetekar.github.io/) · [LinkedIn](https://www.linkedin.com/in/varun-petekar/) · [Email](mailto:varunpetekar28@gmail.com) · [Resume (PDF)](https://varunpetekar.github.io/Varun_Petekar.pdf)
 
-Open to remote Data Engineer roles in any time zone, contract or full-time.
+Open to full-time remote Data Engineer roles in any time zone.

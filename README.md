@@ -1,8 +1,8 @@
 # Hi, I'm Varun Petekar 👋
 
-**Data Engineer** · Mumbai, India · Remote (US hours)
+**Data Engineer** · Mumbai, India · Open to remote roles
 
-I build BigQuery data platforms, ETL pipelines and Power BI reporting for US clients. Most of my work is end to end: from the first call with a client to a pipeline running in production.
+I build BigQuery data platforms, ETL pipelines and Power BI reporting for international clients. Most of my work is end to end: from the first call with a client to a pipeline running in production.
 
 - 🏢 Data Engineer & Analyst at **Execiva**. I own the data platform of a US music-royalty company and work directly with its CEO, directors and data team.
 - 📦 Migrated **5+ TB** from SQL Server to BigQuery and cut BigQuery spend **~30%** with partitioning, clustering and scheduled queries.
@@ -41,4 +41,4 @@ Most of my production work (SQL Server → BigQuery migration, Concord → HubSp
 
 [Portfolio](https://varunpetekar.github.io/) · [LinkedIn](https://www.linkedin.com/in/varun-petekar/) · [Email](mailto:varunpetekar28@gmail.com) · [Resume (PDF)](https://varunpetekar.github.io/Varun_Petekar.pdf)
 
-Open to remote Data Engineer roles on US hours, contract or full-time.
+Open to remote Data Engineer roles in any time zone, contract or full-time.
